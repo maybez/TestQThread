@@ -1,1 +1,8 @@
+*.suo
+*.sdf
+*.db
 Win32
+TestQThread/Debug
+TestQThread/Release
+TestQThread/GeneratedFiles
+TestQThread.opensdf
